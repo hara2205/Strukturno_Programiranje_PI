@@ -1,1 +1,1 @@
-# Strukturno_Programiranje_PI
+Ispitni zadaci iz strukturnog programiranja sa Poslovne informatike
